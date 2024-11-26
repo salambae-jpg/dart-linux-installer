@@ -11,8 +11,7 @@ Script `dart-linux-installer.sh` adalah sebuah utilitas yang dirancang untuk mem
 ## Cara Menggunakan
 1. Clone repository ini ke komputer Anda :
    ```bash
-   git clone https://github.com/username/dart-linux-installer.git
-   cd dart-linux-installer
+   wget https://raw.githubusercontent.com/salambae-jpg/dart-linux-installer/refs/heads/main/dart-linux-installer.sh
 2. Jadikan script dapat dieksekusi :
    ```bash
    chmod +x dart-linux-installer.sh
