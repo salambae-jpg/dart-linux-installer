@@ -19,4 +19,4 @@ Script `dart-linux-installer.sh` adalah sebuah utilitas yang dirancang untuk mem
 3. Jalankan script :
    ```bash
    ./dart-linux-installer.sh
-4. Ikuti petunjuk sampai selesai :
+4. Ikuti petunjuk sampai selesai
